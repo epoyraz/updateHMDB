@@ -1,0 +1,7 @@
+EXTRA:EXTRA001	Propionyl-l-carnitine-d3	CCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C([2H])([2H])[2H]	InChi=NA
+EXTRA:EXTRA002	Nialamide	C1=CC=C(C=C1)CNC(=O)CCNNC(=O)C2=CC=NC=C2	InChi=NA
+EXTRA:EXTRA003	Sulfadimethoxine-d6	C([2H])([2H])([2H])OC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC([2H])([2H])[2H]	InChi=NA
+EXTRA:EXTRA004	Reserpine	CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC	InChi=NA
+EXTRA:EXTRA005	Terfenadine	CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O	InChi=NA
+EXTRA:EXTRA006	Hexadecanoyl-l-carnitine-d3	CCCCCCCCCCCCCCCC(=O)O[C@H](CC(=O)[O-])C[N+](C)(C)C([2H])([2H])[2H]	InChi=NA
+EXTRA:EXTRA007	Octadecanoyl-l-carnitine-d3	CCCCCCCCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C([2H])([2H])[2H]	InChi=NA
